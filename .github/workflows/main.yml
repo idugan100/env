@@ -1,3 +1,5 @@
+name: Tests/Linting/Formatting
+
 on:
   push:
     branches: [ "master" ]
