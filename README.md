@@ -5,4 +5,4 @@ I created this package to handle all my env file parsing on my go projects.
 
 This package can be installed with ```go get github.com/idugan100/env```
 
-You can see the documentation for this package [here](pkg.go.dev/github.com/idugan100/env).
+You can see the documentation for this package [here](https://pkg.go.dev/github.com/idugan100/env).
